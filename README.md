@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello :)
+I predominantly program in C++, and I enjoy using RayLib (it's a very nice library).
 
 <!--
 **N-WB/N-WB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
