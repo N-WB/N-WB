@@ -1,5 +1,6 @@
 ## Hello :)
 I programme in various languages. Recently I've been using C++ and Python.
+I prefer to keep most of my repositories private.
 
 <!--
 **N-WB/N-WB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
