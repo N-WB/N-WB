@@ -1,5 +1,5 @@
 ## Hello :)
-I've programmed in various languages. Recently it has been C++ and Python.
+I programme in various languages. Recently I've been using C++ and Python.
 
 <!--
 **N-WB/N-WB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
